@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is a 4-member group Final Year Project analysing the financial distress and strategic challenges of Pakistan Services Limited (PSL), Pakistan’s largest luxury hospitality operator under the Pearl Continental (PC) brand. Using FY2018-FY2023 financial data, valuation models and on-ground hotel analysis, the study evaluates PSL’s capital structure, liquidity stress and asset utilisation and proposes data-driven restructuring strategies including REIT monetisation, franchising and asset-light growth.
+This project is a 4-member group project analysing the financial distress and strategic challenges of Pakistan Services Limited (PSL), Pakistan’s largest luxury hospitality operator under the Pearl Continental (PC) brand. Using FY2018-FY2023 financial data, valuation models and on-ground hotel analysis, the study evaluates PSL’s capital structure, liquidity stress and asset utilisation and proposes data-driven restructuring strategies including REIT monetisation, franchising and asset-light growth.
 
 # Hotels Evaluated (PC Portfolio)
 

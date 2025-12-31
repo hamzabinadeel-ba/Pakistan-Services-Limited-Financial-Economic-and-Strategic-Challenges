@@ -1,0 +1,2 @@
+# Pakistan-Services-Limited-Financial-Economic-and-Strategic-Challenges
+A group project analysing the financial, economic and strategic challenges of Pakistan Services Limited (PSL). The project applies ratio analysis, industry benchmarking and capital-structure evaluation to assess debt stress and proposes recovery strategies including REIT structuring, franchising, cost optimisation and asset-light growth models.
